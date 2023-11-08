@@ -1,0 +1,133 @@
+.Main {
+    display: flex;
+    background-color:rgb(240, 118, 196)
+    }
+
+.Main_nav{
+    display: flex;
+}
+.Main_nav a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    font-size: large ;
+    font-weight:bold;
+    margin-left: 33px;
+    margin-right: 33px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    
+}
+.Main_nav a:hover {
+    background-color: rgb(254, 157, 234);
+}
+
+.Main_nav img {
+    width: 70px;
+    margin-left: 10px;
+}
+.png1 {
+    width: 1500px;
+}
+.Describe {
+    display: inline-flex;
+    
+}
+.C_Describe {
+    display: block;
+    font-size:20px;
+    font-style: arial;
+}
+.C_Describe >p >a {
+    text-decoration: none;
+    color: rgb(240, 118, 196);
+}
+h2 {
+    margin-top: 50px;
+}
+.png2 {
+    width: 1000px;
+}
+.adress {
+    font-size:20px;
+    font-style: arial;
+}
+.Menu {
+    display: inline-flex;
+}
+.png_sushi {
+    width: 500px;
+}
+.png_italian {
+    width: 495px;
+}
+.png_fast {
+    width: 490px;
+}
+.Шапка {
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+.set {
+    width: 100px;
+    ;
+}
+.Pizza {
+    padding: 0px;
+    margin: 0px;
+}
+ol {
+    margin: 5px;
+}
+.Pizza>ol>p {
+    font-weight:bold ;
+    margin: 5px;
+}
+.Prices>p {
+    margin: 5px;
+}
+.Pasta {
+    padding: 0px;
+    margin: 0px;
+}
+ul {
+    margin: 5px;
+}
+.Pasta>ul>p {
+    font-weight:bold ;
+    margin: 5px;
+}
+.I>tr>th>img {
+    width: 600px;
+    
+}
+.Pizza_png>th {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.Pizza_png {
+    background-image: url(./images/Pizza.png);
+}
+.Burgers>a {
+    text-decoration: none;
+    color: rgb(240, 118, 196);
+}
+h3>a {
+    text-decoration: none;
+    color: rgb(240, 118, 196);
+}
+.png_HP {
+    width: 400px;
+}
+.png_mask {
+    width: 400px;
+}
+.Cinema {
+    margin: 50px;
+}
+.png_stars {
+    width: 400px;
+}
